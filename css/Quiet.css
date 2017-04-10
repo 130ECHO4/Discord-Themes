@@ -201,7 +201,7 @@ button.btn:hover{background-color:#151517;border-radius:3px;}
 
 .chat .divider{height:28px;background-color:transparent;}
 
-.highlight{color:var(--main-color);background:#131315;border-radius:3px;padding:1px 4px 2px 3px;}
+.highlight{color:#E57C14;background:#131315;border-radius:3px;padding:1px 4px 2px 3px;}
 
 .highlight:hover{background-color:var(--main-color);}
 
@@ -1256,7 +1256,7 @@ code{background:#121213 !important;box-shadow: 0 0 5px -1px #000}
 
 .bda-dark .emoji-picker .diversity-selector .popout{background:#121213;border-color:#121213;}
 
-.theme-dark .channel-textarea-inner{border-color:#1D1C1B;}
+.theme-dark .channel-textarea-inner{border-color:#E57C14;}
 
 .chat .jump-to-present-bar button:last-child{color:#fff;}
 
