@@ -175,7 +175,7 @@ div.avatar-large{border-radius:5px;}
 
 .theme-dark .message-group .comment .markup pre{background:#141417 !important;border-color:#111113 !important;}
 
-.theme-dark .hljs{background: #048FB3;color: #6F49FD}
+.theme-dark .hljs{display: block;overflow-x: auto;padding: .5em;background: #004A9D;color: #07E5FF;-webkit-text-size-adjust: none}
 
 .account .btn-settings:after{opacity:0.2;}
 
