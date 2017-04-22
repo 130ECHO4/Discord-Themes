@@ -1689,7 +1689,7 @@ button.bd-customicon-settings{display:none;}
 
 .search-popout{background-color:#6E6EE7;}
 
-.theme-dark .search .search-bar{background-color:#B7B7C8;border:2px solid #121213;padding:0px 0px 28px 0px;border-bottom:2px solid #121213 !important;}
+.theme-dark .search .search-bar{background-color:#7F7FEB;border:2px solid #121213;padding:0px 0px 28px 0px;border-bottom:2px solid #121213 !important;}
 
 .search.popout-open > .search-bar{border-bottom:2px solid var(--main-color) !important;}
 
